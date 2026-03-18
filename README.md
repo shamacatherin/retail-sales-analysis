@@ -30,6 +30,7 @@ transactions from the Superstore dataset (2014–2017).
 
 ## Dashboard Preview
 
+[![View Dashboard PDF](dashboard_preview.png)](sales%20analysis%20dashboard.pdf)
 
 ## Author
-Shama Catherin T — MSc Analytics, University of Birmingham
+Shama Catherin T — MSc Business Analytics, University of Birmingham
